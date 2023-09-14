@@ -122,7 +122,7 @@
 //     button.textContent = 'light theme';
 //   });
 
-const cards = document.querySelectorAll('.card');
+// const cards = document.querySelectorAll('.card');
 
 // cards.forEach(card => {
 //   card.addEventListener('click', function () {
