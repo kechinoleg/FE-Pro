@@ -98,3 +98,4 @@ sortBtn.onclick = () => {
   products.sort((a, b) => a.price - b.price);
   newProducts();
 }
+
